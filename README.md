@@ -2,13 +2,13 @@
 <h3 align="center">Data Analyst | Power BI · SQL · Excel · Python</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourhandle">
+  <a href="https://linkedin.com/in/blaise-hilary/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@yourhandle">
+  <a href="https://medium.com/@blaisehilary1">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:blaisehilary19mail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
