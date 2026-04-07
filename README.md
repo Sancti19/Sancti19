@@ -19,7 +19,8 @@
 Hi, I'm Blaise! I have a technical background in Petroleum Engineering and I am currently expanding my expertise in the world of data. I've completed structured training in Data Analysis through ALX Africa and Scenario Academy. Currently, I'm actively pursuing a Master's degree in Project Management at the University of Kigali, Rwanda. I have developed a strong foundation in analytical thinking and a genuine passion for using data to uncover insights that drive real decisions.
 
 During my training at ALX, I worked on a hands-on real-world project focused on improving water access in Maji Ndogo; a practical experience that sharpened my ability to work with messy, complex datasets and translate raw numbers into solutions that matter to communities. I also gained experience in data cleaning, exploratory analysis, and dashboard reporting, which I believe are valuable assets as I grow in this field.
-Beyond the technical side, I believe soft skills are often underrated in data work. ALX placed a strong emphasis on building the whole professional — and through that programme, I developed key skills in communication, teamwork, problem-solving, and leadership that position me as a stronger team player and collaborator in any data environment.
+
+Beyond the technical side, I believe soft skills are often underrated in data work. ALX placed a strong emphasis on building the whole professional; and through that programme, I developed key skills in communication, teamwork, problem-solving, and leadership that position me as a stronger team player and collaborator in any data environment.
 
 I am currently deepening my technical foundation through a Data Engineering course, exploring how data pipelines and infrastructure power the analytics work I love. Whether working independently or as part of a team, I am driven by the thrill of finding patterns in data and the satisfaction of turning complex problems into clear, actionable insights.
 
